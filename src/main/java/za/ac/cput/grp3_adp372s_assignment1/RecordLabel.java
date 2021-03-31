@@ -1,5 +1,10 @@
 package za.ac.cput.grp3_adp372s_assignment1;
 
+/**
+ * Author: Marchello Carolus 218234457
+ *
+ */
+
 public class RecordLabel {
 
     private String artist;

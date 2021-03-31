@@ -7,12 +7,18 @@ import org.junit.jupiter.api.Timeout;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Author: Marchello Carolus 218234457
+ *
+ */
+
 class RecordLabelTest {
 
     private RecordLabel artist1;
     private RecordLabel artist2;
     private RecordLabel artist3;
     private RecordLabel artist4;
+    private RecordLabel artist5;
 
 
     @BeforeEach
