@@ -1,5 +1,5 @@
 package za.ac.cput.grp3_adp372s_assignment1;
-
+// author Malcolm Camelo 217137334
 public class Cars {
 
     private String name,brand,colour;
